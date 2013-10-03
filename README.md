@@ -1,5 +1,5 @@
-#InnovateCU
-## October 2, 2010
+#Innovate2013CU
+## October 2, 2013
 
 Updating README for demonstrative purposes
 
